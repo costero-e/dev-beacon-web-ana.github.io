@@ -8,7 +8,7 @@ Beacon has been widely adopted, with ELIXIR Beacon Network being one of the [GA4
 
 <a href="https://youtu.be/Z13sklz9Ylk?si=Px1KB61tPkM2b1Xf" target="_blank">
 
-![[My image](https://github.com/AnaT-DCO/dev-beacon-web-ana.github.io/blob/main/docs/img/Beacon-video-frame-mini.png))](https://github.com/AnaT-DCO/dev-beacon-web-ana.github.io/blob/main/docs/img/Beacon-video-frame-mini.png)
+<img src="https://github.com/AnaT-DCO/dev-beacon-web-ana.github.io/blob/main/docs/img/Beacon-video-frame-mini.png"/>
 
 </a>
 
