@@ -10,7 +10,7 @@ Adeeeu
 
 <a href="https://youtu.be/Z13sklz9Ylk?si=Px1KB61tPkM2b1Xf"><img src="https://raw.githubusercontent.com/AnaT-DCO/dev-beacon-web-ana.github.io/refs/heads/main/docs/img/Beacon-video-frame-mini.png"></img></a>
 
-<a href="/Beacon-Features">Beacon Features</a>
+<a href="Beacon-Features">Beacon Features</a>
 
 
 ## Beacon Project Timeline
