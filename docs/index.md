@@ -8,9 +8,9 @@ Beacon has been widely adopted, with ELIXIR Beacon Network being one of the [GA4
 
 Adeeeu
 
-<a href="https://youtu.be/Z13sklz9Ylk?si=Px1KB61tPkM2b1Xf"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/The_Puppy.jpg/800px-The_Puppy.jpg"></img></a>
+<a href="https://youtu.be/Z13sklz9Ylk?si=Px1KB61tPkM2b1Xf"><img src="https://raw.githubusercontent.com/AnaT-DCO/dev-beacon-web-ana.github.io/refs/heads/main/docs/img/Beacon-video-frame-mini.png"></img></a>
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/The_Puppy.jpg/800px-The_Puppy.jpg"></img>
+<a href="/Beacon-Features"></a>
 
 
 ## Beacon Project Timeline
