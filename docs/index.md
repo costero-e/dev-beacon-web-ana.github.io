@@ -10,7 +10,7 @@ Beacon has been widely adopted, with ELIXIR Beacon Network being one of the [GA4
 
 <img src="https://github.com/AnaT-DCO/dev-beacon-web-ana.github.io/blob/main/docs/img/Beacon-video-frame-mini.png" alt="hi" class="inline"/>
 
-[![Alt text for broken image link](https://github.com/AnaT-DCO/dev-beacon-web-ana.github.io/blob/main/docs/img/Beacon-video-frame-mini.png)](https://youtu.be/Z13sklz9Ylk?si=Px1KB61tPkM2b1Xf)
+![![Alt text for broken image link](https://github.com/AnaT-DCO/dev-beacon-web-ana.github.io/blob/main/docs/img/Beacon-video-frame-mini.png)](https://youtu.be/Z13sklz9Ylk?si=Px1KB61tPkM2b1Xf)
 
 
 ## Beacon Project Timeline
